@@ -1,0 +1,24 @@
+﻿pencil
+eraser
+chair
+table
+perfume
+cat
+dog
+water
+mother
+father
+cream
+bed
+headset
+umbrella
+shoes
+sneeakers
+house
+swimming pool
+wallet
+key
+the newspaper
+mobile phone
+washing machine
+television
